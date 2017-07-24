@@ -4,6 +4,7 @@
 	margin: 0px;
 	padding: 0px;
 }
+  html { overflow-x:  hidden; }
 .container
 {
 	width: 1415px;
